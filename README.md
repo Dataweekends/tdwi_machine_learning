@@ -1,6 +1,8 @@
 # TDWI Machine Learning
 Intro To Machine Learning Workshop for TDWI Accelerate, Seattle, October 2017
 
+### [Slides](https://www.slideshare.net/FrancescoMosconi/machine-learning-techniques-best-practices-and-practical-application)
+
 ## Quick start guide
 
 #### Clone this repository on your local computer
