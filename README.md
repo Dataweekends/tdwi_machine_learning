@@ -1,3 +1,7 @@
+Next in-person Bootcamp: 3-7 June, San Francisco. [Register here](https://bootcamp.zerotodeeplearning.com)
+
+----
+
 # TDWI Machine Learning
 Intro To Machine Learning Workshop for TDWI Accelerate, Seattle, October 2017
 
